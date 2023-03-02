@@ -7,6 +7,8 @@
     "start": "nodemon"
   },
   "author": "Roman",
+  "email": "roman.my.workspace@gmail.com",
+  "url": "https://github.com/roman-myspace/nodejs-starter-template",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
