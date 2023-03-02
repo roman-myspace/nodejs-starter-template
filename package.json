@@ -1,0 +1,24 @@
+{
+  "name": "node_mvc",
+  "version": "1.0.0",
+  "description": "start nodejs template using MVC deisgn pattern ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "Roman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "md5": "^2.3.0",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "sharp": "^0.31.3"
+  }
+}
